@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_temperatureVariables/templates *
+recursive-include octoprint_temperatureVariables/translations *
+recursive-include octoprint_temperatureVariables/static *
