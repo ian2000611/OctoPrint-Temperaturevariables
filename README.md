@@ -1,4 +1,4 @@
-# temperatureVariables
+# OctoPrint-Temperaturevariables
 
 Scans gcode to find first layer temperatures for the bed and hot end and create
 s variables that can be used in a startup script.
